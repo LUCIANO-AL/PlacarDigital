@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Placar MarcaOsPontos</string>
+
+    <string name="title_numpontos">Pontos do Jogo</string>
+    <string name="msg_numpontos">INFORME A QUANTIDADE DE PONTOS DO PLACAR</string>
+    <string name="alert_btn_sim">SIM</string>
+    <string name="alert_btn_ok">OK</string>
+    <string name="title_vitoria">VITÓRIA</string>
+    <string name="msg_timevencedor">TimeA venceu</string>
+    <string name="msg_timevencedorB">TimeB venceu</string>
+
+    <!--Teste
+    <string name="banner_placar">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_placar2">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_vitoria">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_vitoria2">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_vitoria3">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_vitoria4">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_vitoria5">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_vitoria6">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_vitoria7">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_vitoria8">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <!--Produção-->
+    <string name="banner_placar">ca-app-pub-9264013911597861/1300136001</string>
+    <string name="banner_placar2">ca-app-pub-9264013911597861/9143415391</string>
+    <string name="interstitial_vitoria">ca-app-pub-9264013911597861/8213292046</string>
+    <string name="interstitial_vitoria2">ca-app-pub-9264013911597861/1300399333</string>
+    <string name="interstitial_vitoria3">ca-app-pub-9264013911597861/5163746430</string>
+    <string name="interstitial_vitoria4">ca-app-pub-9264013911597861/5884589363</string>
+    <string name="interstitial_vitoria5">ca-app-pub-9264013911597861/7805790097</string>
+    <string name="interstitial_vitoria6">ca-app-pub-9264013911597861/5179626758</string>
+    <string name="interstitial_vitoria7">ca-app-pub-9264013911597861/3403510653</string>
+    <string name="interstitial_vitoria8">ca-app-pub-9264013911597861/9777347310</string>
+
+
+
+    <string name="app_id_admob">ca-app-pub-9264013911597861~6080855240</string>
+    <string name="msg_jogoganho">PARABÉNS SEU TIME VENCEU.</string>
+    <string name="title_vitoriadapartida">Vitória de 3 sets</string>
+
+
+</resources>
